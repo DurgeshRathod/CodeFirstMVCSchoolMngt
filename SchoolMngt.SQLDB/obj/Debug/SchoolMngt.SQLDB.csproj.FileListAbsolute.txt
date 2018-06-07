@@ -1,0 +1,14 @@
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\SchoolMngt.SQLDB\bin\Debug\SchoolMngt.SQLDB.dll.config
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\SchoolMngt.SQLDB\bin\Debug\SchoolMngt.SQLDB.dll
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\SchoolMngt.SQLDB\bin\Debug\SchoolMngt.SQLDB.pdb
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\SchoolMngt.SQLDB\bin\Debug\DomainClasses.dll
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\SchoolMngt.SQLDB\bin\Debug\EntityFramework.dll
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\SchoolMngt.SQLDB\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\SchoolMngt.SQLDB\bin\Debug\DomainClasses.pdb
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\SchoolMngt.SQLDB\bin\Debug\EntityFramework.xml
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\SchoolMngt.SQLDB\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\SchoolMngt.SQLDB\obj\Debug\SchoolMngt.SQLDB.csprojResolveAssemblyReference.cache
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\SchoolMngt.SQLDB\obj\Debug\SchoolMngt.SQLDB.dll
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\SchoolMngt.SQLDB\obj\Debug\SchoolMngt.SQLDB.pdb
+C:\Users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\SchoolMngt.SQLDB\obj\Debug\SchoolMngt.SQLDB.Migrations.CreateFirstMigration.resources
+C:\Users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\SchoolMngt.SQLDB\obj\Debug\SchoolMngt.SQLDB.csproj.GenerateResource.Cache

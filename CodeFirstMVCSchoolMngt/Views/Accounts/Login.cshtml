@@ -1,0 +1,28 @@
+﻿@model DomainClasses.UserMaster
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+@using (Html.BeginForm("Login", "Accounts", FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(m => m.Username)
+        @Html.TextBoxFor(m => m.Username, new { @class = "form-control" })
+        <div>
+            @Html.ValidationMessageFor(m => m.Username, "Cannot be empty", "")
+        </div>
+        <br />
+        @Html.LabelFor(m => m.Password)
+        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+        <div>
+            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "error" })
+        </div>
+        <div class="checkbox">
+            @Html.Label("Remember Me", new { @for = "RememberMe" })
+            @Html.CheckBoxFor(m => m.RememberMe)
+        </div>
+        <input type="submit" value="Submit" />
+    </div>
+}

@@ -1,0 +1,5 @@
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\DomainClasses\bin\Debug\DomainClasses.dll
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\DomainClasses\bin\Debug\DomainClasses.pdb
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\DomainClasses\obj\Debug\DomainClasses.dll
+c:\users\merce\documents\visual studio 2012\Projects\CodeFirstMVCSchoolMngt\DomainClasses\obj\Debug\DomainClasses.pdb
+C:\Users\merce\Documents\Visual Studio 2012\Projects\CodeFirstMVCSchoolMngt\DomainClasses\obj\Debug\DomainClasses.csprojResolveAssemblyReference.cache
